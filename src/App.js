@@ -1,5 +1,5 @@
 import { useRef, useState } from "react";
-import './App.css'
+import './style/style.css'
 
 function App() {
   const [includeUppercase, setIncludeUppercase] = useState(true);
